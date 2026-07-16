@@ -1,5 +1,5 @@
-import Sensor from '../models/sensor.js'
-import Alerta from '../models/alerta.js'
+import Sensor from '../model/sensor.js'
+import Alerta from '../model/alerta.js'
 
 class RegistrarLecturaUseCase {
 

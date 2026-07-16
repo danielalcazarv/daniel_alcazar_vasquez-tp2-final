@@ -1,5 +1,5 @@
-import SensorDAOMemoria from '../dao/sensorDAOMemoria.js'
-import AlertaDAOMemoria from '../dao/alertaDAOMemoria.js'
+import SensorDAOMemoria from '../model/DAOs/sensorDAOMemoria.js'
+import AlertaDAOMemoria from '../model/DAOs/alertaDAOMemoria.js'
 
 class DAOFactory {
     constructor() {

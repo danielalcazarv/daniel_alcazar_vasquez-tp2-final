@@ -24,3 +24,5 @@ class ValidadorLecturas {
         return { id, tipo, valor: valorNumerico, timestamp }
     }
 }
+
+export default ValidadorLecturas
